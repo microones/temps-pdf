@@ -1,0 +1,4 @@
+.env
+meteo_pdf.spec
+/dist
+/build
